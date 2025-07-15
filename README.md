@@ -24,13 +24,13 @@ O Insertion Sort constrói a lista ordenada um elemento por vez, inserindo cada 
   - Melhor caso: O(n)
   - Médio e pior caso: O(n²)
 
-## Tabela de Resultados (Exemplo)
+## Tabela de Resultados 
 
 | Algoritmo       | Comparações | Trocas | Tempo Médio (ms) |
 |-----------------|-------------|--------|------------------|
-| Bubble Sort     |    10       |   6    |      0.01        |
-| Selection Sort  |    10       |   3    |      0.01        |
-| Insertion Sort  |    7        |   6    |      0.01        |
+| Bubble Sort     |    45       |   6    |      0.00        |
+| Selection Sort  |    45       |   0    |      0.01        |
+| Insertion Sort  |    9        |   0    |      0.01        |
 
 > **Obs:** Os valores acima são exemplos para 5 pessoas. Os resultados reais podem variar conforme a entrada.
 
