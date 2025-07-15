@@ -32,7 +32,7 @@ O Insertion Sort constrói a lista ordenada um elemento por vez, inserindo cada 
 | Selection Sort  |    45       |   0    |      0.01        |
 | Insertion Sort  |    9        |   0    |      0.01        |
 
-> **Obs:** Os valores acima são exemplos para 5 pessoas. Os resultados reais podem variar conforme a entrada.
+> **Obs:** Os valores acima são exemplos para 10 pessoas. Os resultados reais podem variar conforme a entrada.
 
 ## Como Usar
 1. Compile com `gcc ordenador.c -o ordenador.exe`
